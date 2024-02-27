@@ -1,0 +1,16 @@
+C:\Users\paloczi.imre\source\repos\Pars2012\Pars2012\bin\Debug\net7.0\Pars2012.exe
+C:\Users\paloczi.imre\source\repos\Pars2012\Pars2012\bin\Debug\net7.0\Pars2012.deps.json
+C:\Users\paloczi.imre\source\repos\Pars2012\Pars2012\bin\Debug\net7.0\Pars2012.runtimeconfig.json
+C:\Users\paloczi.imre\source\repos\Pars2012\Pars2012\bin\Debug\net7.0\Pars2012.dll
+C:\Users\paloczi.imre\source\repos\Pars2012\Pars2012\bin\Debug\net7.0\Pars2012.pdb
+C:\Users\paloczi.imre\source\repos\Pars2012\Pars2012\obj\Debug\net7.0\Pars2012.csproj.AssemblyReference.cache
+C:\Users\paloczi.imre\source\repos\Pars2012\Pars2012\obj\Debug\net7.0\Pars2012.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paloczi.imre\source\repos\Pars2012\Pars2012\obj\Debug\net7.0\Pars2012.AssemblyInfoInputs.cache
+C:\Users\paloczi.imre\source\repos\Pars2012\Pars2012\obj\Debug\net7.0\Pars2012.AssemblyInfo.cs
+C:\Users\paloczi.imre\source\repos\Pars2012\Pars2012\obj\Debug\net7.0\Pars2012.csproj.CoreCompileInputs.cache
+C:\Users\paloczi.imre\source\repos\Pars2012\Pars2012\obj\Debug\net7.0\Pars2012.dll
+C:\Users\paloczi.imre\source\repos\Pars2012\Pars2012\obj\Debug\net7.0\refint\Pars2012.dll
+C:\Users\paloczi.imre\source\repos\Pars2012\Pars2012\obj\Debug\net7.0\Pars2012.pdb
+C:\Users\paloczi.imre\source\repos\Pars2012\Pars2012\obj\Debug\net7.0\Pars2012.genruntimeconfig.cache
+C:\Users\paloczi.imre\source\repos\Pars2012\Pars2012\obj\Debug\net7.0\ref\Pars2012.dll
+C:\Users\paloczi.imre\source\repos\Pars2012\Pars2012\bin\Debug\net7.0\Source\Selejtezo2012.txt
